@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[187],{949:(s,e,p)=>{p.r(e),p.d(e,{NotFound:()=>c});p(791);var a=p(662),n=p(184);const c=()=>(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(a.v,{})})}}]);
+//# sourceMappingURL=NotFound.22ed1fbf.chunk.js.map
