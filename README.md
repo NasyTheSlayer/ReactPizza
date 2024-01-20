@@ -1,4 +1,4 @@
-# React Sneakers
+# React Pizza
 
 - [DEMO LINK](nasytheslayer.github.io/react-pizza/)
 
