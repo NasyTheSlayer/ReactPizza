@@ -2,7 +2,7 @@
 
 - [DEMO LINK](nasytheslayer.github.io/react-pizza/)
 
-- [Design link]([https://www.figma.com/file/fw0toTyXMwM1y4WIe0YFrJ/React-Projects?node-id=0%3A1](https://www.figma.com/file/wWUnQwvRDWBfPx1v1pCAfO/React-Pizza)])
+- [Design link](https://www.figma.com/file/wWUnQwvRDWBfPx1v1pCAfO/React-Pizza?type=design&node-id=0-1&mode=design)
 
 ## General info
 The main goal was to create a website according to a design mockup with Figma (link below) and implement the functionality of the website using React, allowing the user to interact with the interface. Navigation on the site is carried out using the React Router DOM. Different product models were obtained by extracting data from AXIOS. Filters and product search have also been added for the convenience of users. All products added by the user to the list of favorites or to the cart are stored in the mockAPI.
