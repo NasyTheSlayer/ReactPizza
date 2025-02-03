@@ -1,6 +1,6 @@
 # React Pizza
 
-- [DEMO LINK](nasytheslayer.github.io/react-pizza/)
+- [DEMO LINK](nasytheslayer.github.io/ReactPizza/)
 
 - [Design link](https://www.figma.com/file/wWUnQwvRDWBfPx1v1pCAfO/React-Pizza?type=design&node-id=0-1&mode=design)
 
@@ -30,12 +30,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/react-pizza.git
+$ git clone https://github.com/NasyTheSlayer/ReactPizza.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code react-pizza
+$ code ReactPizza
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
